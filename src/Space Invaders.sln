@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Space Invaders", "Space Invaders\Space Invaders\Space Invaders.fsproj", "{7BAFC897-F158-43F1-95BB-6B12301C8F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content", "Space Invaders\Space InvadersContent\Content.contentproj", "{9633CE01-4695-43ED-9E68-8B3E37B5267A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BAFC897-F158-43F1-95BB-6B12301C8F39}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7BAFC897-F158-43F1-95BB-6B12301C8F39}.Debug|Any CPU.Build.0 = Debug|x86
+		{7BAFC897-F158-43F1-95BB-6B12301C8F39}.Debug|x86.ActiveCfg = Debug|x86
+		{7BAFC897-F158-43F1-95BB-6B12301C8F39}.Debug|x86.Build.0 = Debug|x86
+		{7BAFC897-F158-43F1-95BB-6B12301C8F39}.Release|Any CPU.ActiveCfg = Release|x86
+		{7BAFC897-F158-43F1-95BB-6B12301C8F39}.Release|Any CPU.Build.0 = Release|x86
+		{7BAFC897-F158-43F1-95BB-6B12301C8F39}.Release|x86.ActiveCfg = Release|x86
+		{7BAFC897-F158-43F1-95BB-6B12301C8F39}.Release|x86.Build.0 = Release|x86
+		{9633CE01-4695-43ED-9E68-8B3E37B5267A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9633CE01-4695-43ED-9E68-8B3E37B5267A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9633CE01-4695-43ED-9E68-8B3E37B5267A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9633CE01-4695-43ED-9E68-8B3E37B5267A}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

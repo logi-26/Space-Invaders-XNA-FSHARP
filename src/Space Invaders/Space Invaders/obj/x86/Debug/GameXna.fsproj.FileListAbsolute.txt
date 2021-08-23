@@ -1,0 +1,7 @@
+C:\Users\louis\Desktop\xna\FSharpGameXna1\FSharpGameXna1\GameXna\bin\Debug\XnaGameContent\Sprite.xnb
+C:\Users\louis\Desktop\xna\FSharpGameXna1\FSharpGameXna1\GameXna\bin\Debug\GameXna.XML
+C:\Users\louis\Desktop\xna\FSharpGameXna1\FSharpGameXna1\GameXna\bin\Debug\GameXna.exe
+C:\Users\louis\Desktop\xna\FSharpGameXna1\FSharpGameXna1\GameXna\bin\Debug\GameXna.pdb
+C:\Users\louis\Desktop\xna\FSharpGameXna1\FSharpGameXna1\GameXna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\louis\Desktop\xna\FSharpGameXna1\FSharpGameXna1\GameXna\obj\x86\Debug\GameXna.exe
+C:\Users\louis\Desktop\xna\FSharpGameXna1\FSharpGameXna1\GameXna\obj\x86\Debug\GameXna.pdb
